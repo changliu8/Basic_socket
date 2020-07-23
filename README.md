@@ -1,8 +1,8 @@
 ### Basic Socket To-do List
 
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [x] Self learning
+
+
 
 Function | Add | Remove | High-light
 :------------ | :-------------| :-------------| :-------------
