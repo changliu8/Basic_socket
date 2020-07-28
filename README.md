@@ -1,10 +1,10 @@
-### HearthStone Cards Collections
+### Simple To-do List with Socket
 
 - [x] Self learning
 
 
 
-NEW | Pug | Query | DynamicHTML
+NEW | ADD | REMOVE | HIGHLIGHT
 :------------ | :-------------| :-------------| :-------------
 Completion| :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark:
 
@@ -14,8 +14,4 @@ Completion| :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark:
 
 | Server Website|
 | ---------------------|
-|http://localhost:3000/cards|
-|http://localhost:3000/cards/CARDSID|
-|http://localhost:3000/cards?name=CARDSNAME|
-
-
+|http://localhost:3000|
